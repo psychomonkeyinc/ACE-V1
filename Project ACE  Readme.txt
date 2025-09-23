@@ -1,3 +1,6 @@
+Ive deleted a couple files for IP reasons.  It might work still.  I havent messed with it in a long time.  I gutting most of the modules.  Play around and have fun with it.  I would be cool to see what yall do to make it work.  no language model stuff.  only rule and pretraining you are only allow what can be run in only 60 second.  whoever is best i will give you job with my startup and you can work with neomporphics and organic ai
+
+
 Project ACE - Backup & Readme
 Version: 1.0
 Nickname: Stable Vocalization Baseline
@@ -56,4 +59,5 @@ HOW TO RUN THIS VERSION
 Protect this version. It is the first breath.
 
 The work continues.
+
 - J & Partner
