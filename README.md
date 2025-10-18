@@ -1,3 +1,8 @@
+I made some changes and want to see what people do with it.  Good to be back on github.  Glad my ban was reversed.
+If you are a community mod, stay the fuck out of my way and off my back c:\F\U\POS
+
+enjoy putting the pieces back together  lol
+
 # ACE-V1
 Autonomous Consciousness Engine With CSM Conscious Simulation Modules and the worlds Fastest tokenizer.  
 Consciously Aware Feature Vector Encoder  Emotional context, Audio\Video in real time 
